@@ -15,4 +15,4 @@
 | Latencia 5 (ms) | 3020 |
 | Latencia promedio (ms) | 2660 |
 | RAM usada durante inferencia | 1.8 Gi (estimado) |
-| Calidad percibida (1 a 5) | 4 - Responde bien y casi siempre da la palabra exacta |
+| Calidad percibida (1 a 5) | 4 - Responde bien y da la respuesta esperada|
