@@ -1,0 +1,13 @@
+# Manual Técnico - Clasificador de Commits
+
+## Arquitectura
+
+El sistema está compuesto por tres componentes principales:
+
+1. **API REST (FastAPI)**: Expone los endpoints `/health`, `/clasificar` e `/inferencias`. Corre en el puerto 8000.
+2. **Motor de inferencia**: 
+   - **Motor eco**: Implementación por reglas (no consume recursos del modelo).
+   - **Motor ollama**: Se comunica con el LLM local en el puerto 11434.
+3. **Base de datos (PostgreSQL)**: Persiste cada inferencia en la tabla `inferencias`. Corre en el puerto 5432.
+
+### Diagrama de componentes
