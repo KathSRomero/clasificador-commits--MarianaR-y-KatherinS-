@@ -5,7 +5,7 @@ Servicio que clasifica mensajes de commit (feat, fix, docs, test, chore, refacto
 ## Integrantes y perfil de hardware
 
 - **Katherine Sánchez** — Perfil B (8 GB RAM, SSD)
-- **Mariana R.** — (indicar su perfil)
+- **Mariana R.** — Perfil B (8 GB RAM, SSD)
 
 ## Requisitos mínimos
 
