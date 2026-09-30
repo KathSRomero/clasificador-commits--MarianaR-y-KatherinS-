@@ -228,3 +228,7 @@ backups/
 .venv/
 __pycache__/
 backups/
+.env
+.venv/
+__pycache__/
+backups/
